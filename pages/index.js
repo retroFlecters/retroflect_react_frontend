@@ -1,11 +1,14 @@
-import NavBar from '../components/NavBar'
+import Layout from '../components/Layout'
 
-export default () => (
+const Index = () => (
+    <Layout> 
     <div className="app">
-
+        
         <header>
-            <NavBar />
-            <h1>Hello</h1>
+            <h2>Welcome to retroFlect</h2>
         </header>
     </div>
+    </Layout>
 )
+
+export default Index;
