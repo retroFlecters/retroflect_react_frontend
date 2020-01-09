@@ -1,10 +1,17 @@
 import Layout from '../components/Layout'
 
 const New = () => (
-    <Layout> 
-    <div className="app">
-        <h2>Make a new post</h2>
-    </div>
+    <Layout>
+    <div className="form-group">
+            <label htmlFor="exampleFormControlTextarea1">
+            Diary Entry
+            </label>
+            <textarea
+            className="form-control"
+            id="exampleFormControlTextarea1"
+            rows="5"
+            />
+        </div>
     </Layout>
 )
 
