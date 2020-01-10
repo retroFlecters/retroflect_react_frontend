@@ -5,23 +5,19 @@ import fetch from 'isomorphic-unfetch';
 
 const Index = (props) => (
     <Layout>
-    <div className="app">
-
-        <header>
-            <h2>Welcome to retroFlect</h2>
-        </header>
-        <ul>
-        {props.posts.map(post => (
-          <li key={post.id}>
-          {FormatDate(post.entryDate)}
-          {post.diary}
-          </li>
-        ))
-
-        }
-        </ul>
-
-    </div>
+      <div className="app">
+          <header>
+              <h2>Welcome to retroFlect</h2>
+          </header>
+          <ul>
+            {props.posts.map(post => (
+              <li key={post.id}>
+                {FormatDate(post.entryDate)}
+                {post.diary}
+              </li>
+            ))}
+          </ul>
+      </div>
     </Layout>
 )
 

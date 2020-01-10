@@ -2491,26 +2491,26 @@ const Index = props => __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["de
 }, __jsx("header", {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 10
+    lineNumber: 9
   },
   __self: undefined
 }, __jsx("h2", {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 11
+    lineNumber: 10
   },
   __self: undefined
 }, "Welcome to retroFlect")), __jsx("ul", {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 13
+    lineNumber: 12
   },
   __self: undefined
 }, props.posts.map(post => __jsx("li", {
   key: post.id,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 15
+    lineNumber: 14
   },
   __self: undefined
 }, FormatDate(post.entryDate), post.diary)))));
