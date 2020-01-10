@@ -13,6 +13,7 @@ const Index = (props) => (
         <ul>
         {props.posts.map(post => (
           <li key={post.id}>
+          {FormatDate(post.entryDate)}
           {post.diary}
           </li>
         ))
@@ -29,10 +30,15 @@ Index.getInitialProps = async function() {
   const data = await res.json();
 
   console.log(`Show data fetched. Count: ${data.length}`);
-  console.log(data)
+
   return {
     posts: data.map(entry => entry)
   };
+};
+
+const FormatDate = (date) => {
+  let postDate = new Date(date);
+  return postDate.toLocaleDateString()
 };
 
 export default Index;
