@@ -7,6 +7,8 @@ import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Button from 'react-bootstrap/Button'
 import Logo from './Logo'
+import DateSelect from './DateSelect'
+
 
 const NavBar = () => {
     return(
@@ -18,6 +20,7 @@ const NavBar = () => {
                 <Nav className="mr-auto">
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/new">New Post</Nav.Link>
+              
                 <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                     <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
@@ -27,10 +30,11 @@ const NavBar = () => {
                 </NavDropdown>
                 </Nav>
                 <Form inline>
-                <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-                <Button variant="outline-success">Search</Button>
+
                 </Form>
+
             </Navbar.Collapse>
+
           </Navbar>
 
           <style jsx>{`
@@ -40,5 +44,7 @@ const NavBar = () => {
         </div>
     )
 }
+
+
 
 export default NavBar;

@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import React from 'react'
 import NavBar from './NavBar'
+import DateSelect from './DateSelect'
 
 const Layout = (props) => (
     <div>
@@ -16,6 +17,9 @@ const Layout = (props) => (
             />
         </Head>
         <NavBar/>
+        <div style="align-right">
+          <DateSelect />
+        </div>
         {props.children}
     </div>
 );
