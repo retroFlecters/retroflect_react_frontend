@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/new.js"],{
 
 /***/ "./components/Layout.js":
 /*!******************************!*\
@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _NavBar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./NavBar */ "./components/NavBar.js");
-var _jsxFileName = "/Users/Student/retroflect/retroflect_react_frontend/components/Layout.js";
+var _jsxFileName = "/Users/student/Desktop/retroflect_react_frontend/components/Layout.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -81,7 +81,7 @@ var Layout = function Layout(props) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/Student/retroflect/retroflect_react_frontend/components/Logo.js";
+var _jsxFileName = "/Users/student/Desktop/retroflect_react_frontend/components/Logo.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -124,7 +124,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_bootstrap_FormControl__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-bootstrap/FormControl */ "./node_modules/react-bootstrap/esm/FormControl.js");
 /* harmony import */ var react_bootstrap_Button__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-bootstrap/Button */ "./node_modules/react-bootstrap/esm/Button.js");
 /* harmony import */ var _Logo__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Logo */ "./components/Logo.js");
-var _jsxFileName = "/Users/Student/retroflect/retroflect_react_frontend/components/NavBar.js";
+var _jsxFileName = "/Users/student/Desktop/retroflect_react_frontend/components/NavBar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -268,7 +268,7 @@ var NavBar = function NavBar() {
   }, "Search")))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "4137443862",
     __self: this
-  }, ".jsx-4137443862{background-color:#ff9100;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9TdHVkZW50L3JldHJvZmxlY3QvcmV0cm9mbGVjdF9yZWFjdF9mcm9udGVuZC9jb21wb25lbnRzL05hdkJhci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQ3NCLEFBRXdDLHlCQUM3QiIsImZpbGUiOiIvVXNlcnMvU3R1ZGVudC9yZXRyb2ZsZWN0L3JldHJvZmxlY3RfcmVhY3RfZnJvbnRlbmQvY29tcG9uZW50cy9OYXZCYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5pbXBvcnQgTmF2YmFyIGZyb20gJ3JlYWN0LWJvb3RzdHJhcC9OYXZiYXInXG5pbXBvcnQgTmF2IGZyb20gJ3JlYWN0LWJvb3RzdHJhcC9OYXYnXG5pbXBvcnQgTmF2RHJvcGRvd24gZnJvbSAncmVhY3QtYm9vdHN0cmFwL05hdkRyb3Bkb3duJ1xuaW1wb3J0IEZvcm0gZnJvbSAncmVhY3QtYm9vdHN0cmFwL0Zvcm0nXG5pbXBvcnQgRm9ybUNvbnRyb2wgZnJvbSAncmVhY3QtYm9vdHN0cmFwL0Zvcm1Db250cm9sJ1xuaW1wb3J0IEJ1dHRvbiBmcm9tICdyZWFjdC1ib290c3RyYXAvQnV0dG9uJ1xuaW1wb3J0IExvZ28gZnJvbSAnLi9Mb2dvJ1xuXG5jb25zdCBOYXZCYXIgPSAoKSA9PiB7XG4gICAgcmV0dXJuKFxuICAgICAgICA8ZGl2PlxuICAgICAgICAgIDxOYXZiYXIgZXhwYW5kPVwibGdcIj5cbiAgICAgICAgICAgIDxOYXZiYXIuQnJhbmQgaHJlZj1cIi9cIj48TG9nbyAvPjwvTmF2YmFyLkJyYW5kPlxuICAgICAgICAgICAgPE5hdmJhci5Ub2dnbGUgYXJpYS1jb250cm9scz1cImJhc2ljLW5hdmJhci1uYXZcIiAvPlxuICAgICAgICAgICAgPE5hdmJhci5Db2xsYXBzZSBpZD1cImJhc2ljLW5hdmJhci1uYXZcIj5cbiAgICAgICAgICAgICAgICA8TmF2IGNsYXNzTmFtZT1cIm1yLWF1dG9cIj5cbiAgICAgICAgICAgICAgICA8TmF2LkxpbmsgaHJlZj1cIi9cIj5Ib21lPC9OYXYuTGluaz5cbiAgICAgICAgICAgICAgICA8TmF2LkxpbmsgaHJlZj1cIi9uZXdcIj5OZXcgUG9zdDwvTmF2Lkxpbms+XG4gICAgICAgICAgICAgICAgPE5hdkRyb3Bkb3duIHRpdGxlPVwiRHJvcGRvd25cIiBpZD1cImJhc2ljLW5hdi1kcm9wZG93blwiPlxuICAgICAgICAgICAgICAgICAgICA8TmF2RHJvcGRvd24uSXRlbSBocmVmPVwiI2FjdGlvbi8zLjFcIj5BY3Rpb248L05hdkRyb3Bkb3duLkl0ZW0+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5JdGVtIGhyZWY9XCIjYWN0aW9uLzMuMlwiPkFub3RoZXIgYWN0aW9uPC9OYXZEcm9wZG93bi5JdGVtPlxuICAgICAgICAgICAgICAgICAgICA8TmF2RHJvcGRvd24uSXRlbSBocmVmPVwiI2FjdGlvbi8zLjNcIj5Tb21ldGhpbmc8L05hdkRyb3Bkb3duLkl0ZW0+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5EaXZpZGVyIC8+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5JdGVtIGhyZWY9XCIjYWN0aW9uLzMuNFwiPlNlcGFyYXRlZCBsaW5rPC9OYXZEcm9wZG93bi5JdGVtPlxuICAgICAgICAgICAgICAgIDwvTmF2RHJvcGRvd24+XG4gICAgICAgICAgICAgICAgPC9OYXY+XG4gICAgICAgICAgICAgICAgPEZvcm0gaW5saW5lPlxuICAgICAgICAgICAgICAgIDxGb3JtQ29udHJvbCB0eXBlPVwidGV4dFwiIHBsYWNlaG9sZGVyPVwiU2VhcmNoXCIgY2xhc3NOYW1lPVwibXItc20tMlwiIC8+XG4gICAgICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PVwib3V0bGluZS1zdWNjZXNzXCI+U2VhcmNoPC9CdXR0b24+XG4gICAgICAgICAgICAgICAgPC9Gb3JtPlxuICAgICAgICAgICAgPC9OYXZiYXIuQ29sbGFwc2U+XG4gICAgICAgICAgPC9OYXZiYXI+XG5cbiAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZjkxMDA7XG4gICAgICAgICAgYH08L3N0eWxlPlxuXG4gICAgICAgIDwvZGl2PlxuICAgIClcbn1cblxuZXhwb3J0IGRlZmF1bHQgTmF2QmFyO1xuIl19 */\n/*@ sourceURL=/Users/Student/retroflect/retroflect_react_frontend/components/NavBar.js */"));
+  }, ".jsx-4137443862{background-color:#ff9100;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9zdHVkZW50L0Rlc2t0b3AvcmV0cm9mbGVjdF9yZWFjdF9mcm9udGVuZC9jb21wb25lbnRzL05hdkJhci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtQ3NCLEFBRXdDLHlCQUM3QiIsImZpbGUiOiIvVXNlcnMvc3R1ZGVudC9EZXNrdG9wL3JldHJvZmxlY3RfcmVhY3RfZnJvbnRlbmQvY29tcG9uZW50cy9OYXZCYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5pbXBvcnQgTmF2YmFyIGZyb20gJ3JlYWN0LWJvb3RzdHJhcC9OYXZiYXInXG5pbXBvcnQgTmF2IGZyb20gJ3JlYWN0LWJvb3RzdHJhcC9OYXYnXG5pbXBvcnQgTmF2RHJvcGRvd24gZnJvbSAncmVhY3QtYm9vdHN0cmFwL05hdkRyb3Bkb3duJ1xuaW1wb3J0IEZvcm0gZnJvbSAncmVhY3QtYm9vdHN0cmFwL0Zvcm0nXG5pbXBvcnQgRm9ybUNvbnRyb2wgZnJvbSAncmVhY3QtYm9vdHN0cmFwL0Zvcm1Db250cm9sJ1xuaW1wb3J0IEJ1dHRvbiBmcm9tICdyZWFjdC1ib290c3RyYXAvQnV0dG9uJ1xuaW1wb3J0IExvZ28gZnJvbSAnLi9Mb2dvJ1xuXG5jb25zdCBOYXZCYXIgPSAoKSA9PiB7XG4gICAgcmV0dXJuKFxuICAgICAgICA8ZGl2PlxuICAgICAgICAgIDxOYXZiYXIgZXhwYW5kPVwibGdcIj5cbiAgICAgICAgICAgIDxOYXZiYXIuQnJhbmQgaHJlZj1cIi9cIj48TG9nbyAvPjwvTmF2YmFyLkJyYW5kPlxuICAgICAgICAgICAgPE5hdmJhci5Ub2dnbGUgYXJpYS1jb250cm9scz1cImJhc2ljLW5hdmJhci1uYXZcIiAvPlxuICAgICAgICAgICAgPE5hdmJhci5Db2xsYXBzZSBpZD1cImJhc2ljLW5hdmJhci1uYXZcIj5cbiAgICAgICAgICAgICAgICA8TmF2IGNsYXNzTmFtZT1cIm1yLWF1dG9cIj5cbiAgICAgICAgICAgICAgICA8TmF2LkxpbmsgaHJlZj1cIi9cIj5Ib21lPC9OYXYuTGluaz5cbiAgICAgICAgICAgICAgICA8TmF2LkxpbmsgaHJlZj1cIi9uZXdcIj5OZXcgUG9zdDwvTmF2Lkxpbms+XG4gICAgICAgICAgICAgICAgPE5hdkRyb3Bkb3duIHRpdGxlPVwiRHJvcGRvd25cIiBpZD1cImJhc2ljLW5hdi1kcm9wZG93blwiPlxuICAgICAgICAgICAgICAgICAgICA8TmF2RHJvcGRvd24uSXRlbSBocmVmPVwiI2FjdGlvbi8zLjFcIj5BY3Rpb248L05hdkRyb3Bkb3duLkl0ZW0+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5JdGVtIGhyZWY9XCIjYWN0aW9uLzMuMlwiPkFub3RoZXIgYWN0aW9uPC9OYXZEcm9wZG93bi5JdGVtPlxuICAgICAgICAgICAgICAgICAgICA8TmF2RHJvcGRvd24uSXRlbSBocmVmPVwiI2FjdGlvbi8zLjNcIj5Tb21ldGhpbmc8L05hdkRyb3Bkb3duLkl0ZW0+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5EaXZpZGVyIC8+XG4gICAgICAgICAgICAgICAgICAgIDxOYXZEcm9wZG93bi5JdGVtIGhyZWY9XCIjYWN0aW9uLzMuNFwiPlNlcGFyYXRlZCBsaW5rPC9OYXZEcm9wZG93bi5JdGVtPlxuICAgICAgICAgICAgICAgIDwvTmF2RHJvcGRvd24+XG4gICAgICAgICAgICAgICAgPC9OYXY+XG4gICAgICAgICAgICAgICAgPEZvcm0gaW5saW5lPlxuICAgICAgICAgICAgICAgIDxGb3JtQ29udHJvbCB0eXBlPVwidGV4dFwiIHBsYWNlaG9sZGVyPVwiU2VhcmNoXCIgY2xhc3NOYW1lPVwibXItc20tMlwiIC8+XG4gICAgICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PVwib3V0bGluZS1zdWNjZXNzXCI+U2VhcmNoPC9CdXR0b24+XG4gICAgICAgICAgICAgICAgPC9Gb3JtPlxuICAgICAgICAgICAgPC9OYXZiYXIuQ29sbGFwc2U+XG4gICAgICAgICAgPC9OYXZiYXI+XG5cbiAgICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZjkxMDA7XG4gICAgICAgICAgYH08L3N0eWxlPlxuXG4gICAgICAgIDwvZGl2PlxuICAgIClcbn1cblxuZXhwb3J0IGRlZmF1bHQgTmF2QmFyO1xuIl19 */\n/*@ sourceURL=/Users/student/Desktop/retroflect_react_frontend/components/NavBar.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (NavBar);
@@ -6065,21 +6065,21 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FStudent%2Fretroflect%2Fretroflect_react_frontend%2Fpages%2Findex.js!./":
-/*!*******************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FStudent%2Fretroflect%2Fretroflect_react_frontend%2Fpages%2Findex.js ***!
-  \*******************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js!./":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js ***!
+  \*****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/", function() {
-      var mod = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/new", function() {
+      var mod = __webpack_require__(/*! ./pages/new.js */ "./pages/new.js")
       if(true) {
-        module.hot.accept(/*! ./pages/index.js */ "./pages/index.js", function() {
-          if(!next.router.components["/"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
-          next.router.update("/", updatedPage)
+        module.hot.accept(/*! ./pages/new.js */ "./pages/new.js", function() {
+          if(!next.router.components["/new"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/new.js */ "./pages/new.js")
+          next.router.update("/new", updatedPage)
         })
       }
       return mod
@@ -12711,487 +12711,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/react-bootstrap/esm/Carousel.js":
-/*!******************************************************!*\
-  !*** ./node_modules/react-bootstrap/esm/Carousel.js ***!
-  \******************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/extends */ "./node_modules/@babel/runtime/helpers/esm/extends.js");
-/* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/esm/objectWithoutPropertiesLoose */ "./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js");
-/* harmony import */ var _babel_runtime_helpers_esm_inheritsLoose__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/esm/inheritsLoose */ "./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js");
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! classnames */ "./node_modules/classnames/index.js");
-/* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var dom_helpers_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! dom-helpers/css */ "./node_modules/dom-helpers/esm/css.js");
-/* harmony import */ var dom_helpers_transitionEnd__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! dom-helpers/transitionEnd */ "./node_modules/dom-helpers/esm/transitionEnd.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var uncontrollable__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! uncontrollable */ "./node_modules/uncontrollable/esm/index.js");
-/* harmony import */ var _CarouselCaption__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./CarouselCaption */ "./node_modules/react-bootstrap/esm/CarouselCaption.js");
-/* harmony import */ var _CarouselItem__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./CarouselItem */ "./node_modules/react-bootstrap/esm/CarouselItem.js");
-/* harmony import */ var _ElementChildren__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./ElementChildren */ "./node_modules/react-bootstrap/esm/ElementChildren.js");
-/* harmony import */ var _SafeAnchor__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./SafeAnchor */ "./node_modules/react-bootstrap/esm/SafeAnchor.js");
-/* harmony import */ var _ThemeProvider__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./ThemeProvider */ "./node_modules/react-bootstrap/esm/ThemeProvider.js");
-/* harmony import */ var _triggerBrowserReflow__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./triggerBrowserReflow */ "./node_modules/react-bootstrap/esm/triggerBrowserReflow.js");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var countChildren = function countChildren(c) {
-  return react__WEBPACK_IMPORTED_MODULE_6___default.a.Children.toArray(c).filter(react__WEBPACK_IMPORTED_MODULE_6___default.a.isValidElement).length;
-};
-
-var SWIPE_THRESHOLD = 40; // TODO: `slide` should be `animate`.
-
-var defaultProps = {
-  slide: true,
-  fade: false,
-  interval: 5000,
-  keyboard: true,
-  pauseOnHover: true,
-  wrap: true,
-  indicators: true,
-  controls: true,
-  activeIndex: 0,
-  prevIcon: react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-    "aria-hidden": "true",
-    className: "carousel-control-prev-icon"
-  }),
-  prevLabel: 'Previous',
-  nextIcon: react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-    "aria-hidden": "true",
-    className: "carousel-control-next-icon"
-  }),
-  nextLabel: 'Next',
-  touch: true
-};
-
-var Carousel =
-/*#__PURE__*/
-function (_React$Component) {
-  Object(_babel_runtime_helpers_esm_inheritsLoose__WEBPACK_IMPORTED_MODULE_2__["default"])(Carousel, _React$Component);
-
-  function Carousel() {
-    var _this;
-
-    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-      args[_key] = arguments[_key];
-    }
-
-    _this = _React$Component.call.apply(_React$Component, [this].concat(args)) || this;
-    _this.state = {
-      prevClasses: '',
-      currentClasses: 'active',
-      touchStartX: 0
-    };
-    _this.isUnmounted = false;
-    _this.carousel = react__WEBPACK_IMPORTED_MODULE_6___default.a.createRef();
-
-    _this.handleTouchStart = function (e) {
-      _this.setState({
-        touchStartX: e.changedTouches[0].screenX
-      });
-    };
-
-    _this.handleTouchEnd = function (e) {
-      // If the swipe is under the threshold, don't do anything.
-      if (Math.abs(e.changedTouches[0].screenX - _this.state.touchStartX) < SWIPE_THRESHOLD) return;
-
-      if (e.changedTouches[0].screenX < _this.state.touchStartX) {
-        // Swiping left to navigate to next item.
-        _this.handleNext(e);
-      } else {
-        // Swiping right to navigate to previous item.
-        _this.handlePrev(e);
-      }
-    };
-
-    _this.handleSlideEnd = function () {
-      var pendingIndex = _this._pendingIndex;
-      _this._isSliding = false;
-      _this._pendingIndex = null;
-      if (pendingIndex != null) _this.to(pendingIndex);else _this.cycle();
-    };
-
-    _this.handleMouseOut = function () {
-      _this.cycle();
-    };
-
-    _this.handleMouseOver = function () {
-      if (_this.props.pauseOnHover) _this.pause();
-    };
-
-    _this.handleKeyDown = function (event) {
-      if (/input|textarea/i.test(event.target.tagName)) return;
-
-      switch (event.key) {
-        case 'ArrowLeft':
-          event.preventDefault();
-
-          _this.handlePrev(event);
-
-          break;
-
-        case 'ArrowRight':
-          event.preventDefault();
-
-          _this.handleNext(event);
-
-          break;
-
-        default:
-          break;
-      }
-    };
-
-    _this.handleNextWhenVisible = function () {
-      if (!_this.isUnmounted && !document.hidden && Object(dom_helpers_css__WEBPACK_IMPORTED_MODULE_4__["default"])(_this.carousel.current, 'visibility') !== 'hidden') {
-        _this.handleNext();
-      }
-    };
-
-    _this.handleNext = function (e) {
-      if (_this._isSliding) return;
-      var _this$props = _this.props,
-          wrap = _this$props.wrap,
-          activeIndex = _this$props.activeIndex;
-      var index = activeIndex + 1;
-      var count = countChildren(_this.props.children);
-
-      if (index > count - 1) {
-        if (!wrap) return;
-        index = 0;
-      }
-
-      _this.select(index, e, 'next');
-    };
-
-    _this.handlePrev = function (e) {
-      if (_this._isSliding) return;
-      var _this$props2 = _this.props,
-          wrap = _this$props2.wrap,
-          activeIndex = _this$props2.activeIndex;
-      var index = activeIndex - 1;
-
-      if (index < 0) {
-        if (!wrap) return;
-        index = countChildren(_this.props.children) - 1;
-      }
-
-      _this.select(index, e, 'prev');
-    };
-
-    return _this;
-  }
-
-  var _proto = Carousel.prototype;
-
-  _proto.componentDidMount = function componentDidMount() {
-    this.cycle();
-  };
-
-  Carousel.getDerivedStateFromProps = function getDerivedStateFromProps(nextProps, _ref) {
-    var previousActiveIndex = _ref.activeIndex;
-
-    if (nextProps.activeIndex !== previousActiveIndex) {
-      var lastPossibleIndex = countChildren(nextProps.children) - 1;
-      var nextIndex = Math.max(0, Math.min(nextProps.activeIndex, lastPossibleIndex));
-      var direction;
-
-      if (nextIndex === 0 && previousActiveIndex >= lastPossibleIndex || previousActiveIndex <= nextIndex) {
-        direction = 'next';
-      } else {
-        direction = 'prev';
-      }
-
-      return {
-        direction: direction,
-        previousActiveIndex: previousActiveIndex,
-        activeIndex: nextIndex
-      };
-    }
-
-    return null;
-  };
-
-  _proto.componentDidUpdate = function componentDidUpdate(_, prevState) {
-    var _this2 = this;
-
-    var _this$props3 = this.props,
-        bsPrefix = _this$props3.bsPrefix,
-        slide = _this$props3.slide,
-        onSlideEnd = _this$props3.onSlideEnd;
-    if (!slide || this.state.activeIndex === prevState.activeIndex || this._isSliding) return;
-    var _this$state = this.state,
-        activeIndex = _this$state.activeIndex,
-        direction = _this$state.direction;
-    var orderClassName, directionalClassName;
-
-    if (direction === 'next') {
-      orderClassName = bsPrefix + "-item-next";
-      directionalClassName = bsPrefix + "-item-left";
-    } else if (direction === 'prev') {
-      orderClassName = bsPrefix + "-item-prev";
-      directionalClassName = bsPrefix + "-item-right";
-    }
-
-    this._isSliding = true;
-    this.pause(); // eslint-disable-next-line react/no-did-update-set-state
-
-    this.safeSetState({
-      prevClasses: 'active',
-      currentClasses: orderClassName
-    }, function () {
-      var items = _this2.carousel.current.children;
-      var nextElement = items[activeIndex];
-      Object(_triggerBrowserReflow__WEBPACK_IMPORTED_MODULE_13__["default"])(nextElement);
-
-      _this2.safeSetState({
-        prevClasses: classnames__WEBPACK_IMPORTED_MODULE_3___default()('active', directionalClassName),
-        currentClasses: classnames__WEBPACK_IMPORTED_MODULE_3___default()(orderClassName, directionalClassName)
-      }, function () {
-        return Object(dom_helpers_transitionEnd__WEBPACK_IMPORTED_MODULE_5__["default"])(nextElement, function () {
-          _this2.safeSetState({
-            prevClasses: '',
-            currentClasses: 'active'
-          }, _this2.handleSlideEnd);
-
-          if (onSlideEnd) {
-            onSlideEnd();
-          }
-        });
-      });
-    });
-  };
-
-  _proto.componentWillUnmount = function componentWillUnmount() {
-    clearTimeout(this.timeout);
-    this.isUnmounted = true;
-  };
-
-  _proto.safeSetState = function safeSetState(state, cb) {
-    var _this3 = this;
-
-    if (this.isUnmounted) return;
-    this.setState(state, function () {
-      return !_this3.isUnmounted && cb();
-    });
-  } // This might be a public API.
-  ;
-
-  _proto.pause = function pause() {
-    this._isPaused = true;
-    clearInterval(this._interval);
-    this._interval = null;
-  };
-
-  _proto.cycle = function cycle() {
-    this._isPaused = false;
-    clearInterval(this._interval);
-    this._interval = null;
-
-    if (this.props.interval && !this._isPaused) {
-      this._interval = setInterval(document.visibilityState ? this.handleNextWhenVisible : this.handleNext, this.props.interval);
-    }
-  };
-
-  _proto.to = function to(index, event) {
-    var children = this.props.children;
-
-    if (index < 0 || index > countChildren(children) - 1) {
-      return;
-    }
-
-    if (this._isSliding) {
-      this._pendingIndex = index;
-      return;
-    }
-
-    this.select(index, event);
-  };
-
-  _proto.select = function select(index, event, direction) {
-    var _this4 = this;
-
-    clearTimeout(this.selectThrottle);
-    if (event && event.persist) event.persist(); // The timeout throttles fast clicks, in order to give any pending state
-    // a chance to update and propagate back through props
-
-    this.selectThrottle = setTimeout(function () {
-      clearTimeout(_this4.timeout);
-      var _this4$props = _this4.props,
-          activeIndex = _this4$props.activeIndex,
-          onSelect = _this4$props.onSelect;
-      if (index === activeIndex || _this4._isSliding || _this4.isUnmounted) return;
-      onSelect(index, direction || (index < activeIndex ? 'prev' : 'next'), event);
-    }, 50);
-  };
-
-  _proto.renderControls = function renderControls(properties) {
-    var bsPrefix = this.props.bsPrefix;
-    var wrap = properties.wrap,
-        children = properties.children,
-        activeIndex = properties.activeIndex,
-        prevIcon = properties.prevIcon,
-        nextIcon = properties.nextIcon,
-        prevLabel = properties.prevLabel,
-        nextLabel = properties.nextLabel;
-    var count = countChildren(children);
-    return [(wrap || activeIndex !== 0) && react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_SafeAnchor__WEBPACK_IMPORTED_MODULE_11__["default"], {
-      key: "prev",
-      className: bsPrefix + "-control-prev",
-      onClick: this.handlePrev
-    }, prevIcon, prevLabel && react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-      className: "sr-only"
-    }, prevLabel)), (wrap || activeIndex !== count - 1) && react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(_SafeAnchor__WEBPACK_IMPORTED_MODULE_11__["default"], {
-      key: "next",
-      className: bsPrefix + "-control-next",
-      onClick: this.handleNext
-    }, nextIcon, nextLabel && react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("span", {
-      className: "sr-only"
-    }, nextLabel))];
-  };
-
-  _proto.renderIndicators = function renderIndicators(children, activeIndex) {
-    var _this5 = this;
-
-    var bsPrefix = this.props.bsPrefix;
-    var indicators = [];
-    Object(_ElementChildren__WEBPACK_IMPORTED_MODULE_10__["forEach"])(children, function (child, index) {
-      indicators.push(react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("li", {
-        key: index,
-        className: index === activeIndex ? 'active' : null,
-        onClick: function onClick(e) {
-          return _this5.to(index, e);
-        }
-      }), // Force whitespace between indicator elements. Bootstrap requires
-      // this for correct spacing of elements.
-      ' ');
-    });
-    return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("ol", {
-      className: bsPrefix + "-indicators"
-    }, indicators);
-  };
-
-  _proto.render = function render() {
-    var _this$props4 = this.props,
-        _this$props4$as = _this$props4.as,
-        Component = _this$props4$as === void 0 ? 'div' : _this$props4$as,
-        bsPrefix = _this$props4.bsPrefix,
-        slide = _this$props4.slide,
-        fade = _this$props4.fade,
-        indicators = _this$props4.indicators,
-        controls = _this$props4.controls,
-        wrap = _this$props4.wrap,
-        touch = _this$props4.touch,
-        prevIcon = _this$props4.prevIcon,
-        prevLabel = _this$props4.prevLabel,
-        nextIcon = _this$props4.nextIcon,
-        nextLabel = _this$props4.nextLabel,
-        className = _this$props4.className,
-        children = _this$props4.children,
-        keyboard = _this$props4.keyboard,
-        _5 = _this$props4.activeIndex,
-        _4 = _this$props4.pauseOnHover,
-        _3 = _this$props4.interval,
-        _2 = _this$props4.onSelect,
-        _1 = _this$props4.onSlideEnd,
-        props = Object(_babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_1__["default"])(_this$props4, ["as", "bsPrefix", "slide", "fade", "indicators", "controls", "wrap", "touch", "prevIcon", "prevLabel", "nextIcon", "nextLabel", "className", "children", "keyboard", "activeIndex", "pauseOnHover", "interval", "onSelect", "onSlideEnd"]);
-
-    var _this$state2 = this.state,
-        activeIndex = _this$state2.activeIndex,
-        previousActiveIndex = _this$state2.previousActiveIndex,
-        prevClasses = _this$state2.prevClasses,
-        currentClasses = _this$state2.currentClasses;
-    return (// eslint-disable-next-line jsx-a11y/no-static-element-interactions
-      react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-        onTouchStart: touch ? this.handleTouchStart : undefined,
-        onTouchEnd: touch ? this.handleTouchEnd : undefined
-      }, props, {
-        className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(className, bsPrefix, slide && 'slide', fade && bsPrefix + "-fade"),
-        onKeyDown: keyboard ? this.handleKeyDown : undefined,
-        onMouseOver: this.handleMouseOver,
-        onMouseOut: this.handleMouseOut
-      }), indicators && this.renderIndicators(children, activeIndex), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
-        className: bsPrefix + "-inner",
-        ref: this.carousel
-      }, Object(_ElementChildren__WEBPACK_IMPORTED_MODULE_10__["map"])(children, function (child, index) {
-        var current = index === activeIndex;
-        var previous = index === previousActiveIndex;
-        return Object(react__WEBPACK_IMPORTED_MODULE_6__["cloneElement"])(child, {
-          className: classnames__WEBPACK_IMPORTED_MODULE_3___default()(child.props.className, current && currentClasses, previous && prevClasses)
-        });
-      })), controls && this.renderControls({
-        wrap: wrap,
-        children: children,
-        activeIndex: activeIndex,
-        prevIcon: prevIcon,
-        prevLabel: prevLabel,
-        nextIcon: nextIcon,
-        nextLabel: nextLabel
-      }))
-    );
-  };
-
-  return Carousel;
-}(react__WEBPACK_IMPORTED_MODULE_6___default.a.Component);
-
-Carousel.defaultProps = defaultProps;
-var DecoratedCarousel = Object(_ThemeProvider__WEBPACK_IMPORTED_MODULE_12__["createBootstrapComponent"])(Object(uncontrollable__WEBPACK_IMPORTED_MODULE_7__["uncontrollable"])(Carousel, {
-  activeIndex: 'onSelect'
-}), 'carousel');
-DecoratedCarousel.Caption = _CarouselCaption__WEBPACK_IMPORTED_MODULE_8__["default"];
-DecoratedCarousel.Item = _CarouselItem__WEBPACK_IMPORTED_MODULE_9__["default"];
-/* harmony default export */ __webpack_exports__["default"] = (DecoratedCarousel);
-
-/***/ }),
-
-/***/ "./node_modules/react-bootstrap/esm/CarouselCaption.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/react-bootstrap/esm/CarouselCaption.js ***!
-  \*************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _createWithBsPrefix__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./createWithBsPrefix */ "./node_modules/react-bootstrap/esm/createWithBsPrefix.js");
-
-/* harmony default export */ __webpack_exports__["default"] = (Object(_createWithBsPrefix__WEBPACK_IMPORTED_MODULE_0__["default"])('carousel-caption', {
-  Component: 'div'
-}));
-
-/***/ }),
-
-/***/ "./node_modules/react-bootstrap/esm/CarouselItem.js":
-/*!**********************************************************!*\
-  !*** ./node_modules/react-bootstrap/esm/CarouselItem.js ***!
-  \**********************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _createWithBsPrefix__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./createWithBsPrefix */ "./node_modules/react-bootstrap/esm/createWithBsPrefix.js");
-
-/* harmony default export */ __webpack_exports__["default"] = (Object(_createWithBsPrefix__WEBPACK_IMPORTED_MODULE_0__["default"])('carousel-item'));
-
-/***/ }),
-
 /***/ "./node_modules/react-bootstrap/esm/Col.js":
 /*!*************************************************!*\
   !*** ./node_modules/react-bootstrap/esm/Col.js ***!
@@ -13757,54 +13276,6 @@ var DropdownToggle = react__WEBPACK_IMPORTED_MODULE_4___default.a.forwardRef(fun
 });
 DropdownToggle.displayName = 'DropdownToggle';
 /* harmony default export */ __webpack_exports__["default"] = (DropdownToggle);
-
-/***/ }),
-
-/***/ "./node_modules/react-bootstrap/esm/ElementChildren.js":
-/*!*************************************************************!*\
-  !*** ./node_modules/react-bootstrap/esm/ElementChildren.js ***!
-  \*************************************************************/
-/*! exports provided: map, forEach */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "map", function() { return map; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "forEach", function() { return forEach; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-
-/**
- * Iterates through children that are typically specified as `props.children`,
- * but only maps over children that are "valid elements".
- *
- * The mapFunction provided index will be normalised to the components mapped,
- * so an invalid component would not increase the index.
- *
- */
-
-function map(children, func) {
-  var index = 0;
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child) {
-    return react__WEBPACK_IMPORTED_MODULE_0___default.a.isValidElement(child) ? func(child, index++) : child;
-  });
-}
-/**
- * Iterates through children that are "valid elements".
- *
- * The provided forEachFunc(child, index) will be called for each
- * leaf child with the index reflecting the position relative to "valid components".
- */
-
-
-function forEach(children, func) {
-  var index = 0;
-  react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.forEach(children, function (child) {
-    if (react__WEBPACK_IMPORTED_MODULE_0___default.a.isValidElement(child)) func(child, index++);
-  });
-}
-
-
 
 /***/ }),
 
@@ -19155,15 +18626,16 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/new.js":
+/*!**********************!*\
+  !*** ./pages/new.js ***!
+  \**********************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+<<<<<<< HEAD:.next/static/development/pages/index.js
 /* harmony import */ var _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/regenerator */ "./node_modules/@babel/runtime-corejs2/regenerator/index.js");
 /* harmony import */ var _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
@@ -19176,45 +18648,100 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_5__);
 
 var _jsxFileName = "/Users/Student/retroflect/retroflect_react_frontend/pages/index.js";
+=======
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
+var _jsxFileName = "/Users/student/Desktop/retroflect_react_frontend/pages/new.js";
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 
 
+<<<<<<< HEAD:.next/static/development/pages/index.js
 
 var Index = function Index(props) {
   return __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
+=======
+var New = function New() {
+  return __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
     },
     __self: this
   }, __jsx("div", {
-    className: "app",
+    "class": "container-fluid",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
+    },
+    __self: this
+  }, __jsx("div", {
+    "class": "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
-  }, __jsx("header", {
+  }, __jsx("div", {
+    "class": "col-12",
     __source: {
       fileName: _jsxFileName,
+<<<<<<< HEAD:.next/static/development/pages/index.js
       lineNumber: 9
+=======
+      lineNumber: 7
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
     },
     __self: this
   }, __jsx("h2", {
     __source: {
       fileName: _jsxFileName,
+<<<<<<< HEAD:.next/static/development/pages/index.js
       lineNumber: 10
     },
     __self: this
   }, "Welcome to retroFlect")), __jsx("ul", {
+=======
+      lineNumber: 8
+    },
+    __self: this
+  }, "New Post"), __jsx("hr", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }), __jsx("div", {
+    className: "jumbotron",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, __jsx("div", {
+    className: "form-group",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, __jsx("label", {
+    htmlFor: "diaryEntry",
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
     },
     __self: this
+<<<<<<< HEAD:.next/static/development/pages/index.js
   }, props.posts.map(function (post) {
     return __jsx("li", {
       key: post.id,
@@ -19261,20 +18788,74 @@ Index.getInitialProps = function _callee() {
 var FormatDate = function FormatDate(date) {
   var postDate = new Date(date);
   return postDate.toLocaleDateString();
+=======
+  }, "Diary Entry"), __jsx("textarea", {
+    className: "form-control",
+    id: "diaryEntry",
+    rows: "5",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }), __jsx("button", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, "Submit")), __jsx("div", {
+    className: "form-group",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, __jsx("label", {
+    htmlFor: "gratitudeEntry",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }, "I am grateful for..."), __jsx("textarea", {
+    className: "form-control",
+    id: "gratitudeEntry",
+    rows: "5",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }), __jsx("button", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }, "Submit")))))));
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
 };
 
-/* harmony default export */ __webpack_exports__["default"] = (Index);
+/* harmony default export */ __webpack_exports__["default"] = (New);
 
 /***/ }),
 
+<<<<<<< HEAD:.next/static/development/pages/index.js
 /***/ 0:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FStudent%2Fretroflect%2Fretroflect_react_frontend%2Fpages%2Findex.js ***!
   \***********************************************************************************************************************************************/
+=======
+/***/ 2:
+/*!*********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js ***!
+  \*********************************************************************************************************************************************/
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FStudent%2Fretroflect%2Fretroflect_react_frontend%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2FStudent%2Fretroflect%2Fretroflect_react_frontend%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js!./");
 
 
 /***/ }),
@@ -19290,5 +18871,10 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
+<<<<<<< HEAD:.next/static/development/pages/index.js
 },[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
+=======
+},[[2,"static/runtime/webpack.js"]]]);
+//# sourceMappingURL=new.js.map
+>>>>>>> feature/new-posts:.next/static/development/pages/new.js
