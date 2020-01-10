@@ -14,7 +14,6 @@ const New = () => (
                             </label>
                             <textarea className="form-control" id="diaryEntry"
                             rows="5"/>
-                            <button>Submit</button>
                         </div>
                         <div className="form-group">
                             <label htmlFor="gratitudeEntry">
