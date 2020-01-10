@@ -18668,7 +18668,7 @@ var New = function New() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fnew&absolutePagePath=%2FUsers%2Fstudent%2FDesktop%2Fretroflect_react_frontend%2Fpages%2Fnew.js ***!
   \*********************************************************************************************************************************************/
@@ -18691,5 +18691,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=new.js.map
