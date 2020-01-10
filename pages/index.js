@@ -1,5 +1,5 @@
 import Layout from '../components/Layout'
-import Carousel from 'react-bootstrap/Carousel'
+import Card from 'react-bootstrap/Card'
 import Link from 'next/link';
 import fetch from 'isomorphic-unfetch';
 
@@ -9,14 +9,30 @@ const Index = (props) => (
           <header>
               <h2>Welcome to retroFlect</h2>
           </header>
-          <ul>
+        <div className="container">
+          <div className="jumbotron">
+
+
             {props.posts.map(post => (
-              <li key={post.id}>
+
+              <Card style={{ width: '45rem', margin: '10px' }}>
+                 <Card.Header>
                 {FormatDate(post.entryDate)}
-                {post.diary}
-              </li>
+
+                </Card.Header>
+                <Card.Body>
+
+               {post.diary}
+               <br/>
+               <br/>
+               </Card.Body>
+              </Card>
+
+
             ))}
-          </ul>
+<br/>
+          </div>
+      </div>
       </div>
     </Layout>
 )
