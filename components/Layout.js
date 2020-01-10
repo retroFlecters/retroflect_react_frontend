@@ -17,9 +17,9 @@ const Layout = (props) => (
             />
         </Head>
         <NavBar/>
-        <div style="align-right">
+
           <DateSelect />
-        </div>
+      
         {props.children}
     </div>
 );
